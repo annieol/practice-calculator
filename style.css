@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    margin: auto;
+    font-size: 22px;
+    padding: 18px;
+}
+
+button {
+    margin-top: 18px;
+    margin-bottom: 18px;
+    font-weight: bold;
+    border-radius: 0;
+    border-style: solid;
+    border-color: black;
+    background-color: white;
+    font-size: 22px;
+    padding: 4px;
+}
+
+span {
+    padding: 2px;
+    border-bottom: 2px solid black;
+    padding-bottom: 8px;
